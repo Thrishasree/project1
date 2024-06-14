@@ -2,7 +2,8 @@
 #  PROJECT TITLE: BEAUTY SPOT 
 # PROJECT LOGO: https://www.brandcrowd.com/maker/social/1k58mxs678
 ** This is a web based application is developed for the accomplishment of Future Ready Talent Internship Program launched by the Microsoft, Future Skills Prime, Quess, Github and EY.
-/** project link: https://thrishasree.github.io/project1/. **/
+# project link: https://thrishasree.github.io/project1/.
+# project demo video link: https://youtube.com/@trisha-wg6yh?si=_6jYDJ1l_1c1h3Vt
 <h1 align="center">Hi 👋, I'm Kotturi Thrisha sree</h1>
 <h3 align="center">A passionate student from India</h3>
 
