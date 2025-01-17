@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Beauty spot](https://thrishasree.github.io/project1/)
 
-- 🌱 I’m currently learning **css, javascript, html, c#.**
+- 🌱 I’m currently learning **css, javascript, html.**
 
 - 📫 How to reach me **kotturithrishasree@gmail.com**
 
